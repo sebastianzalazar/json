@@ -1,0 +1,12 @@
+{
+    "status":"OK",
+    "persona":[
+        {
+            "nombre":"Maita",
+            "apellido": "Mora",
+            "edad": "47",
+            "dni": "34343434",
+            "estadoCivil":"soltero"
+        }
+    ]
+}
